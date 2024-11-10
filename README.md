@@ -51,6 +51,11 @@ I'm a highly skilled Senior Backend Web Developer with over 3 years of experienc
   <img src="https://img.shields.io/badge/-Google_API_Integration-Specialist-%234285F4?style=for-the-badge&logo=google" alt="Google API Integration Specialist Badge" />
   <img src="https://img.shields.io/badge/-Mentorship_Excellence_Award-%23FFD700?style=for-the-badge&logo=star" alt="Mentorship Excellence Award Badge" />
   <img src="https://img.shields.io/badge/-WordPress_Pro-%2321759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Pro Badge" />
+  <img src="https://img.shields.io/badge/-MySQL_Database_Expert-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Database Expert Badge" />
+  <img src="https://img.shields.io/badge/-RESTful_API_Developer-%23217396?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API Developer Badge" />
+  <img src="https://img.shields.io/badge/-Shopify_Development_Specialist-%237AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Development Specialist Badge" />
+  <img src="https://img.shields.io/badge/-Git_Proficient-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Proficient Badge" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS_Designer-%2306B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Designer Badge" />
 </p>
 
 - **Certified Laravel Developer**: Earned the certification for demonstrating advanced Laravel skills and contributions to Laravel community projects.
