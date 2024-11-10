@@ -47,8 +47,6 @@ I'm a highly skilled Senior Backend Web Developer with over 3 years of experienc
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Certified_Laravel_Developer-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Certified Laravel Developer Badge" />
-  <img src="https://img.shields.io/badge/-PHP_Mastery-Certificate-%23777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Mastery Certificate Badge" />
-  <img src="https://img.shields.io/badge/-Google_API_Integration-Specialist-%234285F4?style=for-the-badge&logo=google" alt="Google API Integration Specialist Badge" />
   <img src="https://img.shields.io/badge/-Mentorship_Excellence_Award-%23FFD700?style=for-the-badge&logo=star" alt="Mentorship Excellence Award Badge" />
   <img src="https://img.shields.io/badge/-WordPress_Pro-%2321759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Pro Badge" />
   <img src="https://img.shields.io/badge/-MySQL_Database_Expert-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Database Expert Badge" />
@@ -56,13 +54,20 @@ I'm a highly skilled Senior Backend Web Developer with over 3 years of experienc
   <img src="https://img.shields.io/badge/-Shopify_Development_Specialist-%237AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Development Specialist Badge" />
   <img src="https://img.shields.io/badge/-Git_Proficient-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Proficient Badge" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS_Designer-%2306B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Designer Badge" />
+  <img src="https://img.shields.io/badge/-JavaScript_Framework_Specialist-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Framework Specialist Badge" />
+  <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner Badge" />
 </p>
 
-- **Certified Laravel Developer**: Earned the certification for demonstrating advanced Laravel skills and contributions to Laravel community projects.
-- **PHP Mastery Certificate**: Completed PHP advanced certification program, mastering PHP best practices and robust backend development.
-- **Google API Integration Specialist**: Recognized for expertise in integrating Google APIs for seamless user experiences in custom CMS platforms.
-- **Mentorship Excellence Award**: Awarded for mentoring 50+ students and junior developers in PHP, Laravel, and WordPress development, focusing on practical skills.
-- **WordPress Pro**: Recognized as a WordPress expert with notable contributions to CMS projects and plugin development.
+- **Certified Laravel Developer**: Earned certification for demonstrating advanced skills in Laravel, including custom package development and RESTful API design, with a focus on scalability and performance.
+- **Mentorship Excellence Award**: Awarded for mentoring over 50 junior developers and students in PHP, Laravel, and WordPress, with a focus on enhancing practical skills for real-world application.
+- **WordPress Pro**: Recognized as a WordPress expert for substantial contributions to CMS projects, plugin development, and theme customization, consistently improving UX and functionality.
+- **MySQL Database Expert**: Proficient in MySQL database architecture and optimization, implementing efficient data management solutions across complex applications.
+- **RESTful API Developer**: Experienced in building robust RESTful APIs, ensuring high performance, security, and ease of integration with various client applications.
+- **Shopify Development Specialist**: Specializes in creating and optimizing e-commerce stores on Shopify, utilizing Liquid for custom theme development and delivering seamless shopping experiences.
+- **Git Proficient**: Extensive experience in version control with Git, managing codebases across collaborative projects and ensuring streamlined development workflows.
+- **Tailwind CSS Designer**: Skilled in using Tailwind CSS to rapidly build responsive and modern UIs, focusing on efficiency and design consistency across applications.
+- **JavaScript Framework Specialist**: Expert in modern JavaScript frameworks such as React, Vue, and Angular, building dynamic and responsive front-end applications.
+- **AWS Cloud Practitioner**: Knowledgeable in AWS services, leveraging cloud solutions to deploy scalable, cost-effective applications with best practices in security and reliability.
 
 ---
 
