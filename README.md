@@ -14,7 +14,19 @@ He/Him
 
 ## 👨‍💻 About Me
 
-I'm a highly skilled Senior Backend Web Developer with over **3 years of experience** in developing, optimizing, and managing robust web applications and websites. My core expertise lies in **PHP**, **Laravel**, and **WordPress**, with advanced skills in **front-end technologies** like Angular, Vue.js, HTML, CSS, and Bootstrap. I’ve built scalable solutions for **E-Commerce**, **CMS**, **LMS**, and **POS systems**, and bring over **2 years of experience** in training aspiring developers.
+I'm a highly skilled Senior Backend Web Developer with over 3 years of experience in developing, optimizing, and managing robust web applications and websites. My core expertise lies in PHP, Laravel, and WordPress, with advanced skills in front-end technologies like Angular, Vue.js, HTML, CSS, and Bootstrap. I’ve built scalable solutions for E-Commerce, CMS, LMS, and POS systems, and bring over 2 years of experience in training aspiring developers.
+
+---
+
+### ⚙️ Tech Stack
+
+<p align="left"> <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/> <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/> <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/> <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/> <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/Shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/> </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ismailaminpk&show_icons=true&theme=radical" alt="GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailaminpk&layout=compact&theme=radical" alt="Top Languages" /> </p>
 
 ---
 
@@ -28,6 +40,15 @@ I'm a highly skilled Senior Backend Web Developer with over **3 years of experie
 - **E-commerce Platforms**: WooCommerce, Shopify
 - **CMS Platforms**: WordPress, Custom CMS
 - **Others**: AJAX, JSON, XML, OAuth, Google APIs, PHPUnit
+
+---
+
+🌟 Key Achievements
+
+    Developed and Maintained a large-scale multi-vendor E-Commerce platform with inventory management and advanced search capabilities, supporting 1000+ daily active users.
+    Optimized a custom POS system used across 50+ retail outlets, achieving a 30% improvement in processing speed.
+    Integrated Google APIs for seamless authentication and data management, improving user experience for custom CMS clients.
+    Mentored 50+ aspiring developers through hands-on projects, workshops, and one-on-one sessions, fostering new tech talent in web development.
 
 ---
 
@@ -54,6 +75,7 @@ I’m interested in collaborating on:
 - **Mentorship** and knowledge-sharing initiatives
 
 ---
+
 ### 🌐 Let's Connect
 
 - 📧 Email: [ismailamin.pk@gmail.com](mailto:ismailamin.pk@gmail.com)
@@ -68,30 +90,6 @@ Did you know? Laravel was created by Taylor Otwell in 2011 and has since become 
 
 Did you know? The first computer virus was created in 1983, and it was harmless!
 
----
-
-### ⚙️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismailaminpk&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailaminpk&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
