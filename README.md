@@ -18,7 +18,7 @@ I'm a highly skilled Senior Backend Web Developer with over 3 years of experienc
 
 ---
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 <p align="left"> <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/> <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/> <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/> <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/> <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/Shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/> </p>
 
@@ -30,7 +30,7 @@ I'm a highly skilled Senior Backend Web Developer with over 3 years of experienc
 
 ---
 
-### 🛠️ My Expertise
+## 🛠️ My Expertise
 
 - **Backend**: PHP, Laravel, Lumen, WordPress, Shopify
 - **Frontend**: Angular, Vue.js, HTML5, CSS3, Bootstrap, Tailwind CSS, Elementor, Divi
@@ -43,16 +43,25 @@ I'm a highly skilled Senior Backend Web Developer with over 3 years of experienc
 
 ---
 
-🌟 Key Achievements
+## 🌟 Key Achievements
 
-    Developed and Maintained a large-scale multi-vendor E-Commerce platform with inventory management and advanced search capabilities, supporting 1000+ daily active users.
-    Optimized a custom POS system used across 50+ retail outlets, achieving a 30% improvement in processing speed.
-    Integrated Google APIs for seamless authentication and data management, improving user experience for custom CMS clients.
-    Mentored 50+ aspiring developers through hands-on projects, workshops, and one-on-one sessions, fostering new tech talent in web development.
+<p align="center">
+  <img src="https://img.shields.io/badge/-Certified_Laravel_Developer-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Certified Laravel Developer Badge" />
+  <img src="https://img.shields.io/badge/-PHP_Mastery-Certificate-%23777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Mastery Certificate Badge" />
+  <img src="https://img.shields.io/badge/-Google_API_Integration-Specialist-%234285F4?style=for-the-badge&logo=google" alt="Google API Integration Specialist Badge" />
+  <img src="https://img.shields.io/badge/-Mentorship_Excellence_Award-%23FFD700?style=for-the-badge&logo=star" alt="Mentorship Excellence Award Badge" />
+  <img src="https://img.shields.io/badge/-WordPress_Pro-%2321759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Pro Badge" />
+</p>
+
+- **Certified Laravel Developer**: Earned the certification for demonstrating advanced Laravel skills and contributions to Laravel community projects.
+- **PHP Mastery Certificate**: Completed PHP advanced certification program, mastering PHP best practices and robust backend development.
+- **Google API Integration Specialist**: Recognized for expertise in integrating Google APIs for seamless user experiences in custom CMS platforms.
+- **Mentorship Excellence Award**: Awarded for mentoring 50+ students and junior developers in PHP, Laravel, and WordPress development, focusing on practical skills.
+- **WordPress Pro**: Recognized as a WordPress expert with notable contributions to CMS projects and plugin development.
 
 ---
 
-### 📌 Noteworthy Projects
+## 📌 Noteworthy Projects
 
 #### E-Commerce Platform
 A custom-built multi-vendor online store with robust **inventory management** and **payment gateway integrations**. Designed to support growth with **scalable architecture**.
@@ -67,6 +76,7 @@ Built a POS system that supports **real-time inventory tracking**, **sales repor
 With a passion for teaching, I’ve mentored over **50 students** in PHP, Laravel, and WordPress, focusing on real-world projects and hands-on experience.
 
 ---
+
 ## 💬 Let's Collaborate
 
 I’m interested in collaborating on:
@@ -76,7 +86,7 @@ I’m interested in collaborating on:
 
 ---
 
-### 🌐 Let's Connect
+## 🌐 Let's Connect
 
 - 📧 Email: [ismailamin.pk@gmail.com](mailto:ismailamin.pk@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/ismailaminpk](https://www.linkedin.com/in/ismailaminpk/)
